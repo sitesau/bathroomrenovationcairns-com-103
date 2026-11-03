@@ -1,0 +1,22 @@
+{
+  "wheel_id": 700,
+  "structure": "umbrella",
+  "slug": "bathroomrenovationcairns-com-103",
+  "project": "bathroom-renovations-cairns-beginner-guide-fc10c3978afd60ab74e1",
+  "parent_t1_ref": "bathroomrenovationcairns-com-151",
+  "node_role": "feeder",
+  "money_target": "bathroomrenovationcairns.com.au",
+  "primary_kw": "bathroom renovations cairns beginner guide",
+  "intended_url": "https://sites-e470-2.web.app/bathroom-renovations-cairns-beginner-guide-fc10c3978afd60ab74e1/",
+  "tier": "T2",
+  "writeback_nonce": "09b80bba0df054a3",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/bathroom-renovations-cairns-what-to-expect-a50449348cbb1086df61/",
+      "anchor": "Bathroom Renovations Cairns What to Expect: What to Expect",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
